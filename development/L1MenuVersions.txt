@@ -3,3 +3,9 @@ Collisions 2017:
    - Details: https://twiki.cern.ch/twiki/bin/view/CMS/GlobalTriggerMenu_L1Menu_Collisions2017_v4slim
    - XML: L1Menu_Collisions2017_v4slim_m6.xml
    - Number of algos: 441
+
+Collisions 2018 (Version 0, Revision 1): 
+   - Short summary: cleaned up Tau and NoBPTX triggers and added 3 new triggers as alternatives
+   - Details: https://docs.google.com/spreadsheets/d/1uvlRfIL4b8Vp3v-3F1wo0BqhZc6MbZR5Fyd0RuU8tAY/edit?usp=sharing 
+   - XML: L1Menu_Collisions2018_v0_dev_r1.xml
+   - Number of algorithms: 413
