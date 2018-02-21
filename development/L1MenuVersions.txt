@@ -1,0 +1,5 @@
+Collisions 2017:
+   - Short summary: latest 2017 collisions menu used as baseline for 2018 developments 
+   - Details: https://twiki.cern.ch/twiki/bin/view/CMS/GlobalTriggerMenu_L1Menu_Collisions2017_v4slim
+   - XML: L1Menu_Collisions2017_v4slim_m6.xml
+   - Number of algos: 441
