@@ -8,9 +8,9 @@ The official releases of the menus will be updated on this Twiki: [L1 Global Tri
 * **develop**: work-in-progress on development versions of menus
 
 ### Naming:
-* Development versions (before official release) to be appended by \_dev\[Y\] (starting from Y = 1):
-  * L1Menu\_Collisions2018\_v\[X\]\_dev\[Y\]
-* Official release versions:
+* Development versions (before official release) to be appended by \_dev\[D\] (starting from D = 1):
+  * L1Menu\_Collisions2018\_v\[X\]\_dev\[D\]
+* Official release versions (starting from X = 0):
   * L1Menu\_Collisions2018\_v\[X\]
-* Revised versions (after official release) to be appended by \_r\[Z\] (starting from Z = 2):
-  * L1Menu\_Collisions2018\_v\[X\]\_r\[Z\]
+* Revised versions (after official release) to follow semantic versioning (X = MAJOR, Y = MINOR, Z = PATCH):
+  * L1Menu\_Collisions2018\_v\[X\]\_\[Y\]\_\[Z\]
