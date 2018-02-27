@@ -1,11 +1,21 @@
-Collisions 2017:
-   - Short summary: latest 2017 collisions menu used as baseline for 2018 developments 
+Collisions 2017 (Latest v4slim):
+   - Short summary: latest 2017 collisions menu (6 boards) used as baseline for 2018 developments 
    - Details: https://twiki.cern.ch/twiki/bin/view/CMS/GlobalTriggerMenu_L1Menu_Collisions2017_v4slim
    - XML: L1Menu_Collisions2017_v4slim_m6.xml
-   - Number of algos: 441
+   - Number of algorithms: 441
 
 Collisions 2018 (Version 0, Development Version 1): 
-   - Short summary: cleaned up Tau and NoBPTX triggers and added 3 new triggers as alternatives
-   - Details: https://docs.google.com/spreadsheets/d/1uvlRfIL4b8Vp3v-3F1wo0BqhZc6MbZR5Fyd0RuU8tAY/edit?usp=sharing 
+   - Short summary: Cleanup of Tau and NoBPTX triggers and added 3 new seeds as alternatives
+   - Details: https://docs.google.com/spreadsheets/d/1uvlRfIL4b8Vp3v-3F1wo0BqhZc6MbZR5Fyd0RuU8tAY/edit?usp=sharing (Sheet 2)
    - XML: L1Menu_Collisions2018_v0_dev1.xml
-   - Number of algorithms: 413
+   - Number of algorithms removed: 31
+   - Number of algorithms added:   3
+   - Total number of algorithms:   413
+
+Collisions 2018 (Version 0, Development Version 2): 
+   - Short summary: Cleaned up BTagCSV, BTagMu, DoubleEG, DoubleMuon and SingleEG triggers and added 10 Single(Iso)EG seeds with er2p5 (2.52) 
+   - Details: https://docs.google.com/spreadsheets/d/1uvlRfIL4b8Vp3v-3F1wo0BqhZc6MbZR5Fyd0RuU8tAY/edit?usp=sharing (Sheet 3)
+   - XML: L1Menu_Collisions2018_v0_dev2.xml
+   - Number of algorithms removed: 65 
+   - Number of algorithms added:   10
+   - Total number of algorithms:   358
