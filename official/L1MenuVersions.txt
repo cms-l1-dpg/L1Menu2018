@@ -1,19 +1,33 @@
 Collisions 2017 (Latest v4slim):
    - Short summary: latest 2017 collisions menu (6 boards) used as baseline for 2018 developments 
-   - Details: https://twiki.cern.ch/twiki/bin/view/CMS/GlobalTriggerMenu_L1Menu_Collisions2017_v4slim
    - XML: L1Menu_Collisions2017_v4slim_m6.xml
+   - Details: https://twiki.cern.ch/twiki/bin/view/CMS/GlobalTriggerMenu_L1Menu_Collisions2017_v4slim
    - Number of algorithms: 441
 
 Official L1 Collisions 2018 Menu (v0_0_0):
    - Short summary: Cleanup of unused algorithms and addition of new alternate seed versions and test algorithms
+   - XML: L1Menu_Collisions2018_v0_0_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_0_0.html 
    - Extracted from development version L1Menu_Collisions2018_dev3.xml
    - Based on 2017 pp menu: L1Menu_Collisions2017_v4slim_m6.xml
-   - Implemented changes (wrt. previous menu L1Menu_Collisions2017_v4slim):
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2017_v4slim_m6):
       - Removed 31 unused Tau and NoBPTX algorithms
       - Added 3 new algorithms: 2 NoBPTX and 1 Tau (based on existing ones)
       - Removed 65 unused BTagCSV, BTagMu, DoubleEG, DoubleMuon and SingleEG algorithms
-      - Added 10 Single(Iso)EG algorithms with er2p5 (2.52)
+      - Added 10 Single(Iso)EG algorithms with eta-restriction of 2p5
       - Added 5 algorithms for testing: 3 L1Jet with restriction to HE, 2 for HCAL laser monitor
    - Number of algorithms removed: 96
    - Number of algorithms added:   18
    - Total number of algorithms:   363
+
+Official L1 Collisions 2018 Menu (v0_1_0):
+   - Short summary: eta-restriction of 2p5 to EG and Jet paths, addition of monitoring seeds and cleanup 
+   - XML: L1Menu_Collisions2018_v0_1_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_1_0.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_0_0):
+      - Minor cleanup of paths which already have replacements
+      - Added er2p52 to many EG and Jet paths
+      - Added special monitoring DoubleMu paths
+   - Number of algorithms removed: 45
+   - Number of algorithms added:   39
+   - Total number of algorithms:   357
