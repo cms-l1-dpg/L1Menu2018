@@ -20,6 +20,17 @@ Official L1 Collisions 2018 Menu (v0_0_0):
    - Number of algorithms added:   18
    - Total number of algorithms:   363
 
+Official L1 Collisions 2018 Menu (v0_0_1):
+   - Short summary: added Totem algorithms and renamed HCAL laser monitoring algorithms 
+   - XML: L1Menu_Collisions2018_v0_0_1.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_0_1.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_0_0):
+      - Added 4 TOTEM algorithms triggering on external signals
+      - Renamed L1_EXT_HCAL_LaserMon_1 to L1_HCAL_LaserMon_Trig and L1_EXT_HCAL_LaserMon_4 to L1_HCAL_LaserMon_Veto
+   - Number of algorithms removed: 0
+   - Number of algorithms added:   4
+   - Total number of algorithms:   367
+
 Official L1 Collisions 2018 Menu (v0_1_0):
    - Short summary: eta-restriction of 2p5 to EG and Jet paths, addition of monitoring seeds and cleanup 
    - XML: L1Menu_Collisions2018_v0_1_0.xml
