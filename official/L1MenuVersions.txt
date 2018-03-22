@@ -53,3 +53,18 @@ Official L1 Collisions 2018 Menu (v0_1_1):
    - Number of algorithms removed: 0
    - Number of algorithms added:   4
    - Total number of algorithms:   361
+
+Official L1 Collisions 2018 Menu (v0_2_0):
+   - Short summary: Further cleanup (ETM, ETT_BptxAND, Mu_EG), updates (HTT_QuadJet, DoubleEG_HTT) and addition of new (SUSY, MuOnia) algorithms
+   - XML: L1Menu_Collisions2018_v0_2_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_2_0.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_1_1):
+      - Further cleanup including removal of ETM, ETT_BptxAND and Mu_EG algorithms
+      - Modification of pt and eta thresholds of HTT_QuadJet algorithms
+      - Modification of pt and eta thresholds of DoubleEG_HTT algorithms
+      - Addition of new SUSY seeds
+      - Addition of some TripleMu and TripleEG seeds
+      - Cleanup and addition of MuOnia seeds
+   - Number of algorithms removed: 86
+   - Number of algorithms added:   32
+   - Total number of algorithms:   307
