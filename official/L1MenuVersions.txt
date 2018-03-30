@@ -68,3 +68,24 @@ Official L1 Collisions 2018 Menu (v0_2_0):
    - Number of algorithms removed: 86
    - Number of algorithms added:   32
    - Total number of algorithms:   307
+
+Official L1 Collisions 2018 Menu (v0_3_0):
+   - Short summary: Further cleanup and addition of seeds from all PDs, including TT28 treatment. Addition of BPH Parking, EXO scouting and BX monitoring paths.
+   - XML: L1Menu_Collisions2018_v0_3_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_3_0.html 
+   - Implemented changes:
+      - Further cleanup and addition of BTagCSV seeds (QuadJet, TripleJet)
+      - Further cleanup and addition of BTagMu seeds (Mu3_Jet, DoubleMu_Jet)
+      - Eta-restriction of 2p5 to remaining DoubleEG, TripleEG, SingleJet, DoubleJet, Mu5_EG seeds
+      - Modification of TripleMu, QuadMu seeds
+      - Modification of thesholds of DoubleJet_Mass_Min620 seeds and addition of TT28 treatment
+      - Replacement of a few pure ETMHF and HTTer seeds
+      - Further addition of MuOnia seeds
+      - Addition of EXO Scouting paths: DoubleJet_er2p5_Mass_Min_dEta_Max1p5 with different mass thresholds
+      - Addition of SingleMu_er1p5 BPH Parking paths
+      - Addition/modification of VBF seed with overlap-removal
+      - Addition of extra seeds monitoring the BX position
+   - Number of algorithms in previous menu: 307
+   - Number of algorithms removed:          49
+   - Number of algorithms added:            67
+   - Total number of algorithms:            325
