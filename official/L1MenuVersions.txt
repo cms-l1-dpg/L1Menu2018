@@ -1,5 +1,5 @@
 Collisions 2017 (Latest v4slim):
-   - Short summary: latest 2017 collisions menu (6 boards) used as baseline for 2018 developments 
+   - Short summary: Final 2017 collisions menu (6 boards) used as baseline for 2018 developments 
    - XML: L1Menu_Collisions2017_v4slim_m6.xml
    - Details: https://twiki.cern.ch/twiki/bin/view/CMS/GlobalTriggerMenu_L1Menu_Collisions2017_v4slim
    - Number of algorithms: 441
@@ -21,7 +21,7 @@ Official L1 Collisions 2018 Menu (v0_0_0):
    - Total number of algorithms:   363
 
 Official L1 Collisions 2018 Menu (v0_0_1):
-   - Short summary: added Totem algorithms and renamed HCAL laser monitoring algorithms 
+   - Short summary: Addition of Totem algorithms and renaming of HCAL laser monitoring algorithms 
    - XML: L1Menu_Collisions2018_v0_0_1.xml
    - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_0_1.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_0_0):
@@ -73,7 +73,7 @@ Official L1 Collisions 2018 Menu (v0_3_0):
    - Short summary: Further cleanup and addition of seeds from all PDs, including TT28 treatment. Addition of BPH Parking, EXO scouting and BX monitoring paths.
    - XML: L1Menu_Collisions2018_v0_3_0.xml
    - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_3_0.html 
-   - Implemented changes:
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_2_0):
       - Further cleanup and addition of BTagCSV seeds (QuadJet, TripleJet)
       - Further cleanup and addition of BTagMu seeds (Mu3_Jet, DoubleMu_Jet)
       - Eta-restriction of 2p5 to remaining DoubleEG, TripleEG, SingleJet, DoubleJet, Mu5_EG seeds
@@ -89,3 +89,17 @@ Official L1 Collisions 2018 Menu (v0_3_0):
    - Number of algorithms removed:          49
    - Number of algorithms added:            67
    - Total number of algorithms:            325
+
+Official L1 Collisions 2018 Menu (v0_4_0):
+   - Short summary: Addition of SingleEGer2p5, Single(Loose)IsoEGer1p5 and, TeV ETT and ETM fail-safe algorithms, and removal of HF monitoring algorithms
+   - XML: L1Menu_Collisions2018_v0_4_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_4_0.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_3_0):
+      - Addition of SingleEGer2p5 algorithms
+      - Addition of Single(Loose)IsoEGer1p5 algorithms
+      - Addition of TeV ETT and ETM fail-safe algorithms
+      - Removal of HF monitoring algorithms
+   - Number of algorithms in previous menu: 325
+   - Number of algorithms removed:          8
+   - Number of algorithms added:            17
+   - Total number of algorithms:            334
