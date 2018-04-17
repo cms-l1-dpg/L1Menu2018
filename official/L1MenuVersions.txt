@@ -103,3 +103,21 @@ Official L1 Collisions 2018 Menu (v0_4_0):
    - Number of algorithms removed:          8
    - Number of algorithms added:            17
    - Total number of algorithms:            334
+
+Official L1 Collisions 2018 Menu (v1_0_0):
+   - Short summary: 2018 physics data-taking menu v1. Final cleanup, re-ordering and re-naming, implementation of fixes and addition of backup seeds 
+   - XML: L1Menu_Collisions2018_v1_0_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v1_0_0.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_4_0):
+      - Removal of prescaled SingleJet and unused ETMHF (+ Jet) algorithms
+      - Addition of L1_FirstBunchBeforeTrain BX monitoring algorithm
+      - Addition of L1_ETMHF_(HTT60er_)NotSecondBunchBeforeTrain algorithms
+      - Addition of SingleEG60 as a backup seed
+      - Re-definition of FWD jets as starting from |eta| > 3.0
+      - Re-ordering of all algorithms in terms of PDs and type
+      - Standardising names of several seeds
+      - Implementation of fixes in algorithm expressions
+   - Number of algorithms in previous menu: 334
+   - Number of algorithms removed:          33
+   - Number of algorithms added:            20
+   - Total number of algorithms:            321
