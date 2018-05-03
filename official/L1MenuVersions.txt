@@ -121,3 +121,17 @@ Official L1 Collisions 2018 Menu (v1_0_0):
    - Number of algorithms removed:          33
    - Number of algorithms added:            20
    - Total number of algorithms:            321
+
+Official L1 Special 2018 Menu (v1_0_0):
+   - Short summary: 2018 special physics data-taking menu v1. Addition of FSQ and HIN algorithms and removal of unused PAG algorithms. 
+   - XML: L1Menu_Special2018_v1_0_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Special2018_v1_0_0.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v1_0_0):
+      - Removal of PAG algorithms that are unused in special runs
+      - Re-addition of FSQ algorithms: L1_SingleJet12_BptxAND and L1_MinimumBiasHF0_OR_BptxAND
+      - Re-addition of L1_ETT_BptxAND HIN algorithms
+      - Re-ordering of algorithms
+   - Number of algorithms in previous menu: 321
+   - Number of algorithms removed:          153
+   - Number of algorithms added:            13
+   - Total number of algorithms:            181
