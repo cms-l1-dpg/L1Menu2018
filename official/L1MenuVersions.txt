@@ -7,7 +7,7 @@ Collisions 2017 (Latest v4slim):
 Official L1 Collisions 2018 Menu (v0_0_0):
    - Short summary: Cleanup of unused algorithms and addition of new alternate seed versions and test algorithms.
    - XML: L1Menu_Collisions2018_v0_0_0.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_0_0.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_0_0.html 
    - Extracted from development version L1Menu_Collisions2018_dev3.xml
    - Based on 2017 pp menu: L1Menu_Collisions2017_v4slim_m6.xml
    - Implemented changes (wrt. previous menu L1Menu_Collisions2017_v4slim_m6):
@@ -23,7 +23,7 @@ Official L1 Collisions 2018 Menu (v0_0_0):
 Official L1 Collisions 2018 Menu (v0_0_1):
    - Short summary: Addition of Totem algorithms and renaming of HCAL laser monitoring algorithms. 
    - XML: L1Menu_Collisions2018_v0_0_1.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_0_1.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_0_1.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_0_0):
       - Added 4 TOTEM algorithms triggering on external signals
       - Renamed L1_EXT_HCAL_LaserMon_1 to L1_HCAL_LaserMon_Trig and L1_EXT_HCAL_LaserMon_4 to L1_HCAL_LaserMon_Veto
@@ -34,7 +34,7 @@ Official L1 Collisions 2018 Menu (v0_0_1):
 Official L1 Collisions 2018 Menu (v0_1_0):
    - Short summary: eta-restriction of 2p5 to EG and Jet paths, addition of monitoring seeds and cleanup. 
    - XML: L1Menu_Collisions2018_v0_1_0.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_1_0.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_1_0.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_0_0):
       - Minor cleanup of paths which already have replacements
       - Added er2p52 to many EG and Jet paths
@@ -46,7 +46,7 @@ Official L1 Collisions 2018 Menu (v0_1_0):
 Official L1 Collisions 2018 Menu (v0_1_1):
    - Short summary: added Totem algorithms and renamed HCAL laser monitoring algorithms.
    - XML: L1Menu_Collisions2018_v0_1_1.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_1_1.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_1_1.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_1_0):
       - Added 4 TOTEM algorithms triggering on external signals
       - Renamed L1_EXT_HCAL_LaserMon_1 to L1_HCAL_LaserMon_Trig and L1_EXT_HCAL_LaserMon_4 to L1_HCAL_LaserMon_Veto
@@ -57,7 +57,7 @@ Official L1 Collisions 2018 Menu (v0_1_1):
 Official L1 Collisions 2018 Menu (v0_2_0):
    - Short summary: Further cleanup (ETM, ETT_BptxAND, Mu_EG), updates (HTT_QuadJet, DoubleEG_HTT) and addition of new (SUSY, MuOnia) algorithms.
    - XML: L1Menu_Collisions2018_v0_2_0.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_2_0.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_2_0.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_1_1):
       - Further cleanup including removal of ETM, ETT_BptxAND and Mu_EG algorithms
       - Modification of pt and eta thresholds of HTT_QuadJet algorithms
@@ -72,7 +72,7 @@ Official L1 Collisions 2018 Menu (v0_2_0):
 Official L1 Collisions 2018 Menu (v0_3_0):
    - Short summary: Further cleanup and addition of seeds from all PDs, including TT28 treatment. Addition of BPH Parking, EXO scouting and BX monitoring paths.
    - XML: L1Menu_Collisions2018_v0_3_0.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_3_0.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_3_0.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_2_0):
       - Further cleanup and addition of BTagCSV seeds (QuadJet, TripleJet)
       - Further cleanup and addition of BTagMu seeds (Mu3_Jet, DoubleMu_Jet)
@@ -93,7 +93,7 @@ Official L1 Collisions 2018 Menu (v0_3_0):
 Official L1 Collisions 2018 Menu (v0_4_0):
    - Short summary: Addition of SingleEGer2p5, Single(Loose)IsoEGer1p5 and, TeV ETT and ETM fail-safe algorithms, and removal of HF monitoring algorithms.
    - XML: L1Menu_Collisions2018_v0_4_0.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v0_4_0.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v0_4_0.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_3_0):
       - Addition of SingleEGer2p5 algorithms
       - Addition of Single(Loose)IsoEGer1p5 algorithms
@@ -107,7 +107,7 @@ Official L1 Collisions 2018 Menu (v0_4_0):
 Official L1 Collisions 2018 Menu (v1_0_0):
    - Short summary: 2018 physics data-taking menu v1. Final cleanup, re-ordering and re-naming, implementation of fixes and addition of backup seeds. 
    - XML: L1Menu_Collisions2018_v1_0_0.xml
-   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/L1Menu_Collisions2018_v1_0_0.html 
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v1_0_0.html 
    - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v0_4_0):
       - Removal of prescaled SingleJet and unused ETMHF (+ Jet) algorithms
       - Addition of L1_FirstBunchBeforeTrain BX monitoring algorithm
@@ -121,6 +121,21 @@ Official L1 Collisions 2018 Menu (v1_0_0):
    - Number of algorithms removed:          33
    - Number of algorithms added:            20
    - Total number of algorithms:            321
+
+Official L1 Collisions 2018 Menu (v1_1_0):
+   - Short summary: 2018 physics data-taking menu v1_1. Addition of lower threshold algorithms (mainly EG). 
+   - XML: L1Menu_Collisions2018_v1_1_0.xml
+   - HTML: http://htmlpreview.github.io/?https://github.com/cms-l1-dpg/L1Menu2018/blob/master/official/HTMLs/L1Menu_Collisions2018_v1_1_0.html 
+   - Implemented changes (wrt. previous menu L1Menu_Collisions2018_v1_0_0):
+      - Addition of lower-threshold L1_Single(Loose)(Iso)EGer algorithms
+      - Addition of forward EG monitoring seeds: L1_Single(Loose)(Iso)EG28_FWD2p5
+      - Addition of L1_DoubleMu4p5er2p0_SQ_OS_Mass_Min7 EXO algorithm without 18 GeV upper mass cut
+      - Addition of L1_DoubleIsoTau28er2p1_Mass_Max80/90 Higgs algorithms
+      - Replacement of seeds with lower threshold ones: L1_Mu7_EG20er2p5, L1_IsoTau40er2p1_ETMHF80, L1_DoubleMu8_SQ
+   - Number of algorithms in previous menu: 321
+   - Number of algorithms removed:          2
+   - Number of algorithms added:            18
+   - Total number of algorithms:            337
 
 Official L1 Special 2018 Menu (v1_0_0):
    - Short summary: 2018 special physics data-taking menu v1. Addition of FSQ and HIN algorithms and removal of unused PAG algorithms. 
